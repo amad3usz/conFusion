@@ -69,3 +69,9 @@ a, a:hover {
     left: 0;
     min-height: 300px;
 }
+
+#carouselButton {
+    right: 200px;
+    bottom: 0px;
+    position: absolute;
+}
